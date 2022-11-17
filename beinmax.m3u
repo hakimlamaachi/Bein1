@@ -1,0 +1,68 @@
+#EXTM3U
+#EXTINF:-1,Qatar beIN Max_LOW 1
+http://51.158.62.119:8000/play/a03p/index.m3u8
+#EXTINF:-1,Qatar beIN Max_LOW 2
+http://51.158.62.119:8000/play/a03q/index.m3u8
+#EXTINF:-1,Qatar beIN Max_LOW 3
+http://51.158.62.119:8000/play/a03r/index.m3u8
+#EXTINF:-1,Qatar beIN Max_LOW 4
+http://51.158.62.119:8000/play/a03s/index.m3u8
+#EXTINF:-1,Qatar beIN Max_LOW 5
+http://51.158.62.119:8000/play/a03t/index.m3u8
+#EXTINF:-1,Qatar beIN Max_LOW 6
+http://51.158.62.119:8000/play/a03u/index.m3u8
+#EXTINF:-1,Qatar beIN Max_SD 1
+http://51.158.62.119:8000/play/a03j/index.m3u8
+#EXTINF:-1,Qatar beIN Max_SD 2
+http://51.158.62.119:8000/play/a03k/index.m3u8
+#EXTINF:-1,Qatar beIN Max_SD 3
+http://51.158.62.119:8000/play/a03l/index.m3u8
+#EXTINF:-1,Qatar beIN Max_SD 4
+http://51.158.62.119:8000/play/a03m/index.m3u8
+#EXTINF:-1,Qatar beIN Max_SD 5
+http://51.158.62.119:8000/play/a03n/index.m3u8
+#EXTINF:-1,Qatar beIN Max_SD 6
+http://51.158.62.119:8000/play/a03o/index.m3u8
+#EXTINF:-1,Real 4k Bein Max2
+http://51.158.62.119:8000/play/a048/index.m3u8
+#EXTINF:-1,Real 4k Bein Max3
+http://51.158.62.119:8000/play/a049/index.m3u8
+#EXTINF:-1,Real 4k Bein Max4
+http://51.158.62.119:8000/play/a04a/index.m3u8
+#EXTINF:-1,Real 4k Bein_max 1
+http://51.158.62.119:8000/play/a047/index.m3u8
+#EXTINF:-1,beIN Max 1 4K
+http://51.158.62.119:8000/play/a041/index.m3u8
+#EXTINF:-1,beIN Max 2 4K
+http://51.158.62.119:8000/play/a042/index.m3u8
+#EXTINF:-1,beIN Max 3 4K
+http://51.158.62.119:8000/play/a043/index.m3u8
+#EXTINF:-1,beIN Max 4 4K
+http://51.158.62.119:8000/play/a044/index.m3u8
+#EXTINF:-1,beIN Max 5 4K
+http://51.158.62.119:8000/play/a045/index.m3u8
+#EXTINF:-1,beIN Max 6 4K
+http://51.158.62.119:8000/play/a046/index.m3u8
+#EXTINF:-1,beIN Max FHD 1
+http://51.158.62.119:8000/play/a03v/index.m3u8
+#EXTINF:-1,beIN Max FHD 2
+http://51.158.62.119:8000/play/a03w/index.m3u8
+#EXTINF:-1,beIN Max FHD 3
+http://51.158.62.119:8000/play/a03x/index.m3u8
+#EXTINF:-1,beIN Max FHD 4
+http://51.158.62.119:8000/play/a03y/index.m3u8
+#EXTINF:-1,beIN Max FHD 5
+http://51.158.62.119:8000/play/a03z/index.m3u8
+#EXTINF:-1,beIN Max FHD 6
+http://51.158.62.119:8000/play/a040/index.m3u8
+#EXTINF:-1,beIN Max_HD 8MB 1
+http://51.158.62.119:8000/play/a03d/index.m3u8
+#EXTINF:-1,beIN Max_HD 8MB 2
+http://51.158.62.119:8000/play/a03e/index.m3u8
+#EXTINF:-1,beIN Max_HD 8MB 3
+http://51.158.62.119:8000/play/a03f/index.m3u8
+#EXTINF:-1,beIN Max_HD 8MB 4
+http://51.158.62.119:8000/play/a03g/index.m3u8
+#EXTINF:-1,beIN Max_HD 8MB 5
+http://51.158.62.119:8000/play/a03h/index.m3u8
+#EXTINF:-1,beIN Max_HD 8MB 6 http://51.158.62.119:8000/play/a03i/index.m3u8
